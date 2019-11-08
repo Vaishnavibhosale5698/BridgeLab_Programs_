@@ -1,0 +1,64 @@
+{
+    "Person": [
+        {
+            "Name": "Pawan",
+            "LastName": "Malhotra",
+            "Address": {
+                "Street": "23",
+                "City": "Solapur",
+                "State": "MP",
+                "Nationality": "Indian",
+                "Zip": "573201",
+                "PhoneNum": "7038723771"
+            }
+        },
+        {
+            "Name": "sandhya",
+            "LastName": "Favade",
+            "Address": {
+                "Street": "22",
+                "City": "Ratnagiri",
+                "State": "Maharashtra",
+                "Nationality": "Indian",
+                "Zip": "560060",
+                "PhoneNum": "9284008535"
+            }
+        },
+        {
+            "Name": "Ashwini",
+            "LastName": "Gaikwad",
+            "Address": {
+                "Street": "21",
+                "City": "Nashik",
+                "State": "Maharashtra",
+                "Nationality": "Indian",
+                "Zip": "402010",
+                "PhoneNum": "9010412563"
+            }
+        },
+        {
+            "Name": "Shital",
+            "LastName": "Mane",
+            "Address": {
+                "Street": "27",
+                "City": "Latur",
+                "State": "MAharashtra",
+                "Nationality": "Indian",
+                "Zip": "402010",
+                "PhoneNum": "7411487048"
+            }
+        },
+        {
+            "Name": "kiran",
+            "LastName": "bhosale",
+            "Address": {
+                "Street": "123",
+                "City": "surat",
+                "State": "Gujrat",
+                "Nationality": "Indian",
+                "Zip": "123456",
+                "PhoneNum": "8888661340"
+            }
+        }
+    ]
+}

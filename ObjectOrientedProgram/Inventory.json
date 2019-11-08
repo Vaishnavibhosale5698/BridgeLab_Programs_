@@ -1,0 +1,38 @@
+{
+    "Rice" :[{
+    "Name":"Basmati",
+    "Weight":"3kg",
+    "Price": 100
+  },
+  {
+      "Name":"Kohinoor",
+      "Weight":"5kg",
+      "Price":120
+  }],
+
+  "Pulses":[{
+    "Name":"Green Gram",
+    "Weight":"1kg",
+    "Price": 60 
+  },
+  {
+    "Name":"Lentil",
+    "Weight":"5kg",
+    "Price": 70
+
+  }],
+
+  "Wheats":[{
+    "Name":"Wheat1",
+    "Weight":"4kg",
+    "Price": 40
+  },
+{
+    "Name":"Wheat2",
+    "Weight":"1kg",
+    "Price": 80
+}]
+
+}
+
+
